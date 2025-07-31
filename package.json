@@ -1,8 +1,7 @@
 {
   "name": "github-act",
   "version": "1.0.0",
-  "script": {
-    "test": "echo \"✅ Tests passed!\" && exit 0"
-
+  "scripts": {
+    "test": "echo \"Start diggin in yo butt twin\" && exit 0"
   }
 }
